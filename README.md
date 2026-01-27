@@ -122,7 +122,7 @@ frontend_stack:
 <table>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="60">
+<img width="89" height="62" alt="image" src="https://github.com/user-attachments/assets/79129f8a-5a6e-4785-b45e-4f051b4d3420" />
 <br><sub>Data Processing</sub>
 </td>
 <td align="center">
@@ -297,17 +297,19 @@ database_systems:
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60"/>
+<img width="802" height="418" alt="image" src="https://github.com/user-attachments/assets/6256cb66-a162-4808-adf6-ae4a041a8fa2" />
 <br><strong>Hadoop</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="60" height="60"/>
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/172e5a4b-14c6-4f57-87c8-a71e8d11df5b" />
 <br><strong>Apache Spark</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
+  
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60"/>
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f37612bf-c92b-4fd2-b475-4b46de6a9534" />
+
 <br><strong>Data Analytics</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
@@ -362,7 +364,7 @@ database_systems:
 <br><sub>Daily Coding</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="60">
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b2e20c0e-f62e-4bc7-9eea-b75dd28faca7" />
 <br><strong>Active</strong>
 <br><sub>Open Source</sub>
 </td>
@@ -379,9 +381,6 @@ database_systems:
 <tr>
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_radius=15" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishKudtarkar&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&border_radius=15" width="100%" />
 </td>
 </tr>
 </table>
@@ -488,8 +487,7 @@ Blockchain_Technology:
 <td width="33%" align="center">
 
 ### 🗄️ **Database Solutions**
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
-
+<img width="1116" height="418" alt="image" src="https://github.com/user-attachments/assets/2d915442-7a6d-4ab8-89e7-3ae21c6d67f8" />
 **Enterprise-Grade Systems**
 - High-performance database architectures
 - Scalable data modeling solutions
@@ -518,7 +516,7 @@ Blockchain_Technology:
 <td width="33%" align="center">
 
 ### 📊 **Data Analytics**
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
+<img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/53721e1c-b5b2-49da-bcf0-495bca54e8fc" />
 
 **🧠 Intelligent Insights**
 - 📈 Big data processing & analysis
