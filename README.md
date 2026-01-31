@@ -382,7 +382,9 @@ database_systems:
 </div>
 
 <!-- Activity Graph -->
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
 <!-- Snake Animation - Will appear once GitHub Actions workflow completes -->
 <!-- 
@@ -394,8 +396,8 @@ database_systems:
 -->
 
 <!-- Achievement Trophies -->
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ManishKudtarkar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" width="100%" />
-
 </div>
 
 ---
