@@ -197,27 +197,27 @@ database_systems:
 <tr>
 <td align="center" width="20%">
 <strong>Big Data Analytics</strong><br>
-<img src="https://progress-bar.dev/95?title=Expert&width=120&color=6C63FF" alt="95% Expert"/><br>
+⭐⭐⭐⭐⭐<br>
 <sub>95% - Expert</sub>
 </td>
 <td align="center" width="20%">
 <strong>Database Systems</strong><br>
-<img src="https://progress-bar.dev/90?title=Expert&width=120&color=6C63FF" alt="90% Expert"/><br>
+⭐⭐⭐⭐⭐<br>
 <sub>90% - Expert</sub>
 </td>
 <td align="center" width="20%">
 <strong>Web Development</strong><br>
-<img src="https://progress-bar.dev/85?title=Advanced&width=120&color=6C63FF" alt="85% Advanced"/><br>
+⭐⭐⭐⭐⭐<br>
 <sub>85% - Advanced</sub>
 </td>
 <td align="center" width="20%">
 <strong>Programming</strong><br>
-<img src="https://progress-bar.dev/92?title=Expert&width=120&color=6C63FF" alt="92% Expert"/><br>
+⭐⭐⭐⭐⭐<br>
 <sub>92% - Expert</sub>
 </td>
 <td align="center" width="20%">
 <strong>AI/ML</strong><br>
-<img src="https://progress-bar.dev/65?title=Learning&width=120&color=6C63FF" alt="65% Learning"/><br>
+⭐⭐⭐⭐☆<br>
 <sub>65% - Learning</sub>
 </td>
 </tr>
@@ -389,6 +389,13 @@ database_systems:
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&border_radius=15" width="100%"/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- Achievement Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=ManishKudtarkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2" width="100%" />
