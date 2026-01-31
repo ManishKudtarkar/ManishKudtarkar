@@ -374,11 +374,7 @@ database_systems:
 </tr>
 </table>
 
-<!-- GitHub Stats with Aesthetic Theme -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&theme=tokyonight&hide_border=true&layout=compact&title_color=6C63FF&text_color=FFFFFF" width="49%" />
-</div>
+
 
 <!-- Activity Graph -->
 <div align="center">
