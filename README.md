@@ -363,7 +363,6 @@ database_systems:
 <br><sub>Daily Coding</sub>
 </td>
 <td align="center">
-<img width="60" height="60" alt="Active Open Source" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensource/opensource-original.svg" />
 <br><strong>Active</strong>
 <br><sub>Open Source</sub>
 </td>
@@ -387,18 +386,16 @@ database_systems:
 </div>
 
 <!-- Snake Animation - Will appear once GitHub Actions workflow completes -->
-<!-- 
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg">
 </picture>
--->
+
 
 <!-- Achievement Trophies -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManishKudtarkar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" width="100%" />
-</div>
+
 
 ---
 
