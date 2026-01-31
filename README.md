@@ -376,16 +376,10 @@ database_systems:
 </table>
 
 <!-- GitHub Stats with Aesthetic Theme -->
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_radius=15" width="100%" />
-</td>
-</tr>
-</table>
-
-<!-- Language Distribution -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_radius=15" width="50%" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_radius=15" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_radius=15" width="49%" />
+</div>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&border_radius=15" width="100%"/>
