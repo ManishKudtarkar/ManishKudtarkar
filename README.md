@@ -68,7 +68,7 @@ status: "Building the future, one line at a time"
 ### 📊 **Big Data Analytics**
 **🎓 Academic Specialization**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="120">
 
 ```yaml
 expertise_level: "Advanced"
@@ -93,7 +93,7 @@ focus_areas:
 ### 🌐 **Full-Stack Web Development**
 **💻 End-to-End Solutions**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="120">
 
 ```yaml
 expertise_level: "Proficient"
@@ -164,7 +164,7 @@ database_systems:
 <td width="50%" align="center">
 
 ### 🤖 **Emerging Technologies**
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="100">
 
 **🚀 Currently Mastering:**
 - **Artificial Intelligence & ML** 🧠
@@ -177,7 +177,7 @@ database_systems:
 <td width="50%" align="center">
 
 ### 💼 **Professional Skills**
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100">
 
 **🌟 Soft Skills Excellence:**
 - **Team Leadership & Collaboration** 🤝
@@ -276,7 +276,7 @@ database_systems:
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/>
 <br><strong>Responsive Design</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
@@ -308,7 +308,7 @@ database_systems:
 </td>
   
 <td align="center" width="20%">
-<img width="60" height="60" alt="Data Analytics" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+<img width="60" height="60" alt="Data Analytics" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
 <br><strong>Data Analytics</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
@@ -353,22 +353,22 @@ database_systems:
 <table>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60">
 <br><strong>388</strong>
 <br><sub>Contributions This Year</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60">
 <br><strong>Consistent</strong>
 <br><sub>Daily Coding</sub>
 </td>
 <td align="center">
-<img width="60" height="60" alt="Active Open Source" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" />
+<img width="60" height="60" alt="Active Open Source" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensource/opensource-original.svg" />
 <br><strong>Active</strong>
 <br><sub>Open Source</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60">
 <br><strong>Growing</strong>
 <br><sub>Every Day</sub>
 </td>
@@ -487,7 +487,7 @@ Blockchain_Technology:
 <td width="33%" align="center">
 
 ### 🗄️ **Database Solutions**
-<img width="300" height="200" alt="Database Solutions" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
+<img width="200" height="150" alt="Database Solutions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 **Enterprise-Grade Systems**
 - High-performance database architectures
@@ -502,7 +502,7 @@ Blockchain_Technology:
 <td width="33%" align="center">
 
 ### 🌐 **Web Applications**
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
+<img width="200" height="150" alt="Web Applications" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 
 **Modern Web Solutions**
 - Responsive & interactive interfaces
@@ -517,7 +517,7 @@ Blockchain_Technology:
 <td width="33%" align="center">
 
 ### 📊 **Data Analytics**
-<img width="200" height="200" alt="Data Analytics" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+<img width="200" height="150" alt="Data Analytics" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
 
 **🧠 Intelligent Insights**
 - 📈 Big data processing & analysis
@@ -589,32 +589,32 @@ Blockchain_Technology:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="300">
 
 ### 🤝 **Open for Opportunities**
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="100">
 <br><strong>Professional Network</strong>
 <br><a href="https://www.linkedin.com/in/manish-kudtarkar">LinkedIn Profile</a>
 <br><sub>Career opportunities & networking</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100">
 <br><strong>Code Repository</strong>
 <br><a href="https://github.com/ManishKudtarkar">GitHub Profile</a>
 <br><sub>Open source contributions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="100">
 <br><strong>Direct Contact</strong>
 <br><a href="mailto:manishkudtarkar467@gmail.com">Email Me</a>
 <br><sub>Project collaborations</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" width="100">
 <br><strong>Knowledge Sharing</strong>
 <br><a href="https://github.com/ManishKudtarkar">Tech Discussions</a>
 <br><sub>Learning & mentoring</sub>
