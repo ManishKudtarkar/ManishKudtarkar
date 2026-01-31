@@ -377,22 +377,24 @@ database_systems:
 
 <!-- GitHub Stats with Aesthetic Theme -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_radius=15" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_radius=15" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&theme=tokyonight&hide_border=true&layout=compact&title_color=6C63FF&text_color=FFFFFF" width="49%" />
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&border_radius=15" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - Will appear once GitHub Actions workflow completes -->
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 <!-- Achievement Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ManishKudtarkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ManishKudtarkar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" width="100%" />
 
 </div>
 
