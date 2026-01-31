@@ -122,7 +122,7 @@ frontend_stack:
 <table>
 <tr>
 <td align="center">
-<img width="89" height="62" alt="image" src="https://github.com/user-attachments/assets/79129f8a-5a6e-4785-b45e-4f051b4d3420" />
+<img width="60" height="60" alt="Data Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <br><sub>Data Processing</sub>
 </td>
 <td align="center">
@@ -197,27 +197,27 @@ database_systems:
 <tr>
 <td align="center" width="20%">
 <strong>Big Data Analytics</strong><br>
-<progress value="95" max="100"></progress><br>
+<img src="https://progress-bar.dev/95?title=Expert&width=120&color=6C63FF" alt="95% Expert"/><br>
 <sub>95% - Expert</sub>
 </td>
 <td align="center" width="20%">
 <strong>Database Systems</strong><br>
-<progress value="90" max="100"></progress><br>
+<img src="https://progress-bar.dev/90?title=Expert&width=120&color=6C63FF" alt="90% Expert"/><br>
 <sub>90% - Expert</sub>
 </td>
 <td align="center" width="20%">
 <strong>Web Development</strong><br>
-<progress value="85" max="100"></progress><br>
+<img src="https://progress-bar.dev/85?title=Advanced&width=120&color=6C63FF" alt="85% Advanced"/><br>
 <sub>85% - Advanced</sub>
 </td>
 <td align="center" width="20%">
 <strong>Programming</strong><br>
-<progress value="92" max="100"></progress><br>
+<img src="https://progress-bar.dev/92?title=Expert&width=120&color=6C63FF" alt="92% Expert"/><br>
 <sub>92% - Expert</sub>
 </td>
 <td align="center" width="20%">
 <strong>AI/ML</strong><br>
-<progress value="65" max="100"></progress><br>
+<img src="https://progress-bar.dev/65?title=Learning&width=120&color=6C63FF" alt="65% Learning"/><br>
 <sub>65% - Learning</sub>
 </td>
 </tr>
@@ -297,19 +297,18 @@ database_systems:
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="20%">
-<img width="802" height="418" alt="image" src="https://github.com/user-attachments/assets/6256cb66-a162-4808-adf6-ae4a041a8fa2" />
+<img width="60" height="60" alt="Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
 <br><strong>Hadoop</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="20%">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/172e5a4b-14c6-4f57-87c8-a71e8d11df5b" />
+<img width="60" height="60" alt="Apache Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 <br><strong>Apache Spark</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
   
 <td align="center" width="20%">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f37612bf-c92b-4fd2-b475-4b46de6a9534" />
-
+<img width="60" height="60" alt="Data Analytics" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
 <br><strong>Data Analytics</strong>
 <br>⭐⭐⭐⭐⭐
 </td>
@@ -364,7 +363,7 @@ database_systems:
 <br><sub>Daily Coding</sub>
 </td>
 <td align="center">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b2e20c0e-f62e-4bc7-9eea-b75dd28faca7" />
+<img width="60" height="60" alt="Active Open Source" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" />
 <br><strong>Active</strong>
 <br><sub>Open Source</sub>
 </td>
@@ -487,7 +486,8 @@ Blockchain_Technology:
 <td width="33%" align="center">
 
 ### 🗄️ **Database Solutions**
-<img width="1116" height="418" alt="image" src="https://github.com/user-attachments/assets/2d915442-7a6d-4ab8-89e7-3ae21c6d67f8" />
+<img width="300" height="200" alt="Database Solutions" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
+
 **Enterprise-Grade Systems**
 - High-performance database architectures
 - Scalable data modeling solutions
@@ -516,7 +516,7 @@ Blockchain_Technology:
 <td width="33%" align="center">
 
 ### 📊 **Data Analytics**
-<img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/53721e1c-b5b2-49da-bcf0-495bca54e8fc" />
+<img width="200" height="200" alt="Data Analytics" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
 
 **🧠 Intelligent Insights**
 - 📈 Big data processing & analysis

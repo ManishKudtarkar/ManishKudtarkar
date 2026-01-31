@@ -1,0 +1,30 @@
+{
+  "name": "manish-kudtarkar-profile",
+  "version": "1.0.0",
+  "description": "Professional GitHub profile showcasing Big Data Analytics, Full-Stack Development, and Database expertise",
+  "main": "README.md",
+  "scripts": {
+    "validate": "powershell -ExecutionPolicy Bypass -File validate.ps1",
+    "preview": "echo Opening GitHub profile preview... && start https://github.com/ManishKudtarkar",
+    "check-workflow": "echo Checking GitHub Actions workflow... && powershell -ExecutionPolicy Bypass -File validate.ps1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManishKudtarkar/ManishKudtarkar.git"
+  },
+  "keywords": [
+    "github-profile",
+    "big-data",
+    "analytics",
+    "full-stack",
+    "database",
+    "web-development",
+    "portfolio"
+  ],
+  "author": "Manish Kudtarkar <manishkudtarkar467@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
