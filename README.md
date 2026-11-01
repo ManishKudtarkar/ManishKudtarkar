@@ -102,17 +102,9 @@ Built proxy-aware HTTP infrastructure for a Python daemon: a shared `create_http
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=57606a&rank_icon=github&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" width="48%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&include_all_commits=true" width="48%" />
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=8" width="36%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="36%" />
 
 </div>
 
@@ -122,11 +114,7 @@ Built proxy-aware HTTP infrastructure for a Python daemon: a shared `create_http
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=ManishKudtarkar&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=21262d" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ManishKudtarkar&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&sideNums=57606a&sideLabels=57606a&dates=57606a" />
-  <img src="https://streak-stats.demolab.com/?user=ManishKudtarkar&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="55%" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=ManishKudtarkar&hide_border=true&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="55%" />
 
 </div>
 
@@ -201,11 +189,11 @@ _WakaTime stats will appear here once the workflow runs._
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&theme=github-compact&hide_border=true&bg_color=00000000&color=0969da&line=0969da&point=0969da&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishKudtarkar&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true" width="100%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManishKudtarkar&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManishKudtarkar&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManishKudtarkar&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManishKudtarkar&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
