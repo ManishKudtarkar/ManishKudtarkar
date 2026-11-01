@@ -26,12 +26,12 @@ const readmeContent = fs.readFileSync(readmePath, 'utf8');
 const checks = [
     {
         name: 'Header section',
-        test: () => readmeContent.includes('Manish Kudtarkar'),
+        test: () => readmeContent.includes('text=Manish%20Kudtarkar'),
         message: 'Profile header with name'
     },
     {
         name: 'Skills section',
-        test: () => readmeContent.includes('Technology Stack'),
+        test: () => readmeContent.includes('Tech stack'),
         message: 'Technology stack section'
     },
     {

@@ -38,7 +38,7 @@ manish = {
 }
 ```
 
-I don't just write code — I own outcomes. At Axflo, I handled the full stack: backend APIs, DNS, SSL, deployment, CI/CD, and SEO that ranked 10+ keywords within 3 months of launch. I'm comfortable being the only engineer on a project or contributing to a large codebase — I've done both.
+At Axflo, I owned the full stack end to end — backend APIs, DNS, SSL, deployment, CI/CD, and the technical SEO that ranked 10+ keywords within three months of launch. I'm just as comfortable as the only engineer on a project as I am inside a larger codebase; I've done both.
 
 ---
 
@@ -121,11 +121,11 @@ I don't just write code — I own outcomes. At Axflo, I handled the full stack: 
 
 ## 🌍 Open source contribution
 
-**[Heliox-OS](https://github.com/ManishKudtarkar)** — Active open-source OS project
+**[Heliox-OS](https://github.com/ManishKudtarkar)** — active open-source OS project
 
-> Engineered proxy-aware HTTP infrastructure for a Python daemon backend. Implemented a shared `create_httpx_client` helper across cloud, Ollama, and local model routing modules. Refactored config validation and improved vision/download pipelines.
+> Built proxy-aware HTTP infrastructure for a Python daemon backend: a shared `create_httpx_client` helper reused across cloud, Ollama, and local model routing. Refactored config validation and tightened the vision/download pipelines.
 
-**Merged PR: +1,284 lines** — not a docs fix, real infrastructure code.
+Merged: **+1,284 lines** of real infrastructure code — not a docs tweak.
 
 ---
 
@@ -208,6 +208,18 @@ I'm open to internships, contract work, and collaborations on interesting proble
 
 [![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kudtarkar)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkudtarkar467@gmail.com)
+
+</div>
+
+## 🐍 Contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg" />
+  <img alt="ManishKudtarkar contribution graph animated as a snake" src="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
