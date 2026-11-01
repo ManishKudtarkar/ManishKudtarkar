@@ -1,0 +1,47 @@
+name: WakaTime Coding Stats
+
+on:
+  # Runs every day at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Update WakaTime stats section
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # ── Required secrets ────────────────────────────────────────────
+          # Add WAKATIME_API_KEY in repo Settings → Secrets → Actions
+          # Get it from: https://wakatime.com/settings/api-key
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # ── Display options ──────────────────────────────────────────────
+          SHOW_OS: "False"              # hide OS breakdown (keep it clean)
+          SHOW_EDITORS: "False"         # hide editor list
+          SHOW_PROJECTS: "False"        # keep focus on languages only
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+
+          # ── Section markers in README.md ─────────────────────────────────
+          # Must match <!--START_SECTION:waka--> … <!--END_SECTION:waka-->
+          SECTION_NAME: "waka"
+
+          # ── Commit message ───────────────────────────────────────────────
+          COMMIT_MESSAGE: "ci: update WakaTime coding stats"

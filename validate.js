@@ -25,13 +25,13 @@ const readmeContent = fs.readFileSync(readmePath, 'utf8');
 // Basic validation checks
 const checks = [
     {
-        name: 'Header section',
-        test: () => readmeContent.includes('text=Manish%20Kudtarkar'),
-        message: 'Profile header with name'
+        name: 'Profile identity',
+        test: () => readmeContent.includes('Manish Kudtarkar'),
+        message: 'Profile identity (name present)'
     },
     {
         name: 'Skills section',
-        test: () => readmeContent.includes('Tech stack'),
+        test: () => /stack|Stack|technologies|Technologies/i.test(readmeContent),
         message: 'Technology stack section'
     },
     {
@@ -45,10 +45,20 @@ const checks = [
         message: 'GitHub statistics widgets'
     },
     {
-        name: 'Animated elements',
-        test: () => readmeContent.includes('readme-typing-svg'),
-        message: 'Dynamic typing animations'
-    }
+        name: 'Live data section',
+        test: () => readmeContent.includes('START_SECTION:waka') || readmeContent.includes('readme-typing-svg'),
+        message: 'Live/auto-updating data section'
+    },
+    {
+        name: 'Project showcase',
+        test: () => readmeContent.includes('axflo.in') || readmeContent.includes('industrial-smart-grid'),
+        message: 'Featured projects present'
+    },
+    {
+        name: 'Contribution visualization',
+        test: () => readmeContent.includes('github-contribution-grid-snake') || readmeContent.includes('activity-graph'),
+        message: 'Contribution graph or snake animation'
+    },
 ];
 
 let passedChecks = 0;
@@ -69,19 +79,27 @@ if (passedChecks === checks.length) {
     console.log('⚠️  Some validations failed. Please review the issues above.');
 }
 
-// Check workflow file
-const workflowPath = path.join(__dirname, '.github', 'workflows', 'snake.yml');
-if (fs.existsSync(workflowPath)) {
-    console.log('✅ GitHub Actions workflow found');
-    const workflowContent = fs.readFileSync(workflowPath, 'utf8');
-    
-    if (workflowContent.includes('permissions:')) {
-        console.log('✅ Workflow has proper permissions configured');
+// Check workflow files
+const workflowDir = path.join(__dirname, '.github', 'workflows');
+const snakePath = path.join(workflowDir, 'snake.yml');
+const wakaPath  = path.join(workflowDir, 'waka.yml');
+
+if (fs.existsSync(snakePath)) {
+    console.log('✅ Snake animation workflow found');
+    const snakeContent = fs.readFileSync(snakePath, 'utf8');
+    if (snakeContent.includes('permissions:')) {
+        console.log('✅ Snake workflow has proper permissions configured');
     } else {
-        console.log('⚠️  Workflow might need permissions configuration');
+        console.log('⚠️  Snake workflow might need permissions configuration');
     }
 } else {
-    console.log('❌ GitHub Actions workflow not found');
+    console.log('❌ Snake animation workflow not found');
+}
+
+if (fs.existsSync(wakaPath)) {
+    console.log('✅ WakaTime stats workflow found');
+} else {
+    console.log('⚠️  WakaTime workflow not found — coding stats will not auto-update');
 }
 
 console.log('\n🎯 Profile validation complete!');
