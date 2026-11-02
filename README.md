@@ -38,14 +38,14 @@
 <!--START_SECTION:now-building-->
 - Shipping production Python backends and ML pipelines that run under real load.
 - Maintaining **[axflo.in](https://axflo.in)** — B2B pump-solutions web app, sole engineer.
-- Contributing infrastructure code to **[Heliox-OS](https://github.com/itgoyo/itgoyo)** — latest merge: +1,284 lines.
+- Contributing infrastructure code to **Heliox-OS** — latest merged PR: **+1,284 lines**.
 - Learning: distributed systems patterns · advanced ML ensembles · AWS Solutions Architect.
 - _Updated: November 2026_
 <!--END_SECTION:now-building-->
 
 ---
 
-## � Top projects
+## 🚀 Top projects
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ B2B web app, 0 → production, sole engineer. ~40% drop in manual sales processi
 
 ## 🌍 Open-source
 
-**[Heliox-OS](https://github.com/ManishKudtarkar)** — active open-source OS
+**Heliox-OS** — active open-source OS project
 
 Built proxy-aware HTTP infrastructure for a Python daemon: a shared `create_httpx_client` helper across cloud, Ollama, and local model routing. Refactored config validation, tightened vision/download pipelines.
 
@@ -104,17 +104,9 @@ Built proxy-aware HTTP infrastructure for a Python daemon: a shared `create_http
 
 <img src="https://github-readme-stats.vercel.app/api?username=ManishKudtarkar&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&include_all_commits=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="36%" />
+<img src="https://streak-stats.demolab.com/?user=ManishKudtarkar&hide_border=true&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="48%" />
 
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ManishKudtarkar&hide_border=true&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishKudtarkar&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="48%" />
 
 </div>
 
@@ -180,20 +172,6 @@ _WakaTime stats will appear here once the workflow runs._
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ManishKudtarkar/ManishKudtarkar/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## 📉 Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManishKudtarkar&theme=tokyonight" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManishKudtarkar&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManishKudtarkar&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManishKudtarkar&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
